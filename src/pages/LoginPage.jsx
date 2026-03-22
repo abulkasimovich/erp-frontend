@@ -197,7 +197,7 @@ export default function LoginPage() {
         <div className="absolute inset-0 bg-gradient-to-br from-gray-900/60 to-gray-800/40 z-10" />
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: `url('https://images.unsplash.com/photo-1497366216548-37526070297c?w=900&q=80')` }}
+          style={{ backgroundImage: `url('https://images.unsplash.com/photo-1518770660439-4636190af475?w=900&q=80')` }}
         />
         <div className="relative z-20 flex items-end p-10 w-full">
           <div className="bg-yellow-400 rounded-2xl p-5 max-w-xs">
@@ -219,7 +219,7 @@ export default function LoginPage() {
                 <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
               </svg>
             </div>
-            <span className="font-bold text-gray-800 text-lg">Najot Ta'lim</span>
+            <span className="font-bold text-gray-800 text-lg">CRM EDU</span>
           </div>
 
           <h1 className="text-2xl font-bold text-gray-900 mb-1">Tizimga kirish</h1>
